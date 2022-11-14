@@ -1,5 +1,14 @@
 # get_next_line_Dx
 
+NEED TO KNOW THIS : 
+
+static int x = 5;
+static int y;
+
+The static variable x is stored in the initialized data segment and the static variable y is stored in the BSS segment.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Write a function that will store, in the parameter “line”, a line that has been read from the given file descriptor.
 
 Return values
